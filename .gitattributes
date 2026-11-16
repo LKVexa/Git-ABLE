@@ -1,0 +1,4 @@
+# Every file is kept byte for byte: no end-of-line conversion on any platform.
+# The .cmd files use CRLF and are pinned by SHA-512 (manifests, SHA512SUMS.cmd, PACKAGE-MANIFEST.cmd),
+# so a conversion on checkout (for example core.autocrlf on Windows) would break the hashes.
+* -text
